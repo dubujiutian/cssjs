@@ -15,13 +15,3 @@ div.orange {
 	background-color: orange;
 	float: left;
 }
-div.orange2 {
-	margin: 1vw;
-	width: 30vw;
-	height: 30vw;
-	border: 0.1vw solid orange;
-	border-radius: 10%;
-	background-color: orange;
-	clear: left;
-	float: left;
-}
